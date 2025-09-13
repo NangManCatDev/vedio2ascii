@@ -35,7 +35,8 @@ pip install opencv-python
 ```
 3. ffmpeg 설치
 ```bash
-sudo apt-get install ffmpeg
+sudo apt-get install ffmpeg # Ubuntu/Debian
+sudo pacman -S ffmpeg   # Arch Linux
 ```
 4. 실행
 ```bash
